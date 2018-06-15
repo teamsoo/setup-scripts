@@ -1,1 +1,1 @@
-npm install -g dockly
+sudo npm install -g dockly
